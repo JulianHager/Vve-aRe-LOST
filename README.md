@@ -25,5 +25,7 @@ The PC player joins as an antagonist in birds eye view with the goal to prevent 
 |Rotationbutton + any orange lit tile | rotate 90° |
 |Spiderbutton + any green lit tile | spwan spiderenemy|
 
+watch the trailer here:
+https://youtu.be/ExCBEZh33KM
 
 
